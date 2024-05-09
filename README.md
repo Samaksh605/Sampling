@@ -24,4 +24,4 @@ In above table, each row corresponds to a sampling technique, and each column re
 <br>
 ### The RANDOM FOREST outperformed all other models when applied to Stratified Sampling Technique.
 
-Submitted by : Rupinder Singh Rana (102117128)
+Submitted by : Samaksh Ahuja(102103211)
